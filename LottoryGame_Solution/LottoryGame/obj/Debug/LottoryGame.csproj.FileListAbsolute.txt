@@ -1,0 +1,38 @@
+D:\pluralpractice_demo\Bede Gaming\LottoryGame\LottoryGame\bin\Debug\LottoryGame.exe.config
+D:\pluralpractice_demo\Bede Gaming\LottoryGame\LottoryGame\bin\Debug\LottoryGame.exe
+D:\pluralpractice_demo\Bede Gaming\LottoryGame\LottoryGame\bin\Debug\LottoryGame.pdb
+D:\pluralpractice_demo\Bede Gaming\LottoryGame\LottoryGame\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pluralpractice_demo\Bede Gaming\LottoryGame\LottoryGame\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\pluralpractice_demo\Bede Gaming\LottoryGame\LottoryGame\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\pluralpractice_demo\Bede Gaming\LottoryGame\LottoryGame\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\pluralpractice_demo\Bede Gaming\LottoryGame\LottoryGame\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\pluralpractice_demo\Bede Gaming\LottoryGame\LottoryGame\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\pluralpractice_demo\Bede Gaming\LottoryGame\LottoryGame\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\pluralpractice_demo\Bede Gaming\LottoryGame\LottoryGame\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\pluralpractice_demo\Bede Gaming\LottoryGame\LottoryGame\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\pluralpractice_demo\Bede Gaming\LottoryGame\LottoryGame\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\pluralpractice_demo\Bede Gaming\LottoryGame\LottoryGame\obj\Debug\LottoryGame.csproj.AssemblyReference.cache
+D:\pluralpractice_demo\Bede Gaming\LottoryGame\LottoryGame\obj\Debug\LottoryGame.csproj.SuggestedBindingRedirects.cache
+D:\pluralpractice_demo\Bede Gaming\LottoryGame\LottoryGame\obj\Debug\LottoryGame.csproj.CoreCompileInputs.cache
+D:\pluralpractice_demo\Bede Gaming\LottoryGame\LottoryGame\obj\Debug\LottoryGame.csproj.CopyComplete
+D:\pluralpractice_demo\Bede Gaming\LottoryGame\LottoryGame\obj\Debug\LottoryGame.exe
+D:\pluralpractice_demo\Bede Gaming\LottoryGame\LottoryGame\obj\Debug\LottoryGame.pdb
+D:\LottoryGame\LottoryGame\bin\Debug\LottoryGame.exe.config
+D:\LottoryGame\LottoryGame\bin\Debug\LottoryGame.exe
+D:\LottoryGame\LottoryGame\bin\Debug\LottoryGame.pdb
+D:\LottoryGame\LottoryGame\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LottoryGame\LottoryGame\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LottoryGame\LottoryGame\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\LottoryGame\LottoryGame\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\LottoryGame\LottoryGame\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\LottoryGame\LottoryGame\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\LottoryGame\LottoryGame\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\LottoryGame\LottoryGame\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\LottoryGame\LottoryGame\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\LottoryGame\LottoryGame\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\LottoryGame\LottoryGame\obj\Debug\LottoryGame.csproj.AssemblyReference.cache
+D:\LottoryGame\LottoryGame\obj\Debug\LottoryGame.csproj.SuggestedBindingRedirects.cache
+D:\LottoryGame\LottoryGame\obj\Debug\LottoryGame.csproj.CoreCompileInputs.cache
+D:\LottoryGame\LottoryGame\obj\Debug\LottoryGame.csproj.CopyComplete
+D:\LottoryGame\LottoryGame\obj\Debug\LottoryGame.exe
+D:\LottoryGame\LottoryGame\obj\Debug\LottoryGame.pdb
